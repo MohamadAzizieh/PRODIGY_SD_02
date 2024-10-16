@@ -1,5 +1,5 @@
 # PRODIGY_SD_02
-My second task as an intern at Prodigy InfoTech!
+My second task as an intern at Prodigy InfoTech!<br>
 This code generates a random number between 1 - 1.000.000 and promts the user to guess it
 
 ## futures:
